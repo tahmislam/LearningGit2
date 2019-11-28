@@ -4,7 +4,13 @@ This is a test. We are just learning to make files.
 
 Wow! This add feature is nice!!
 
+Beans (We are not sure whether to include Beans and Pizzas in the main branch yet)
+Pizza
+
 
 Thank you :) 
 
+Done my changes
+
 Final copy
+
